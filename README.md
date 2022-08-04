@@ -51,7 +51,7 @@ The chamber is comprised of:
 # 2)	Mounting the Hotplate and Color Checker 
 -	The ThermoFisher hotplate is inserted with the doors of the hardboard enclosure off for ease of access so that the center of the aluminum portion of the hotplate is directly in the center of the box. 
 -	Corner mounts for the four corners of the hotplate can optionally be added to mitigate optical drift by ensuring the hotplate stays fixed in place (Eight, M6 or M8 screws and nuts work well for this with holes drilled at a 45º diagonal over the hotplate corner to keep the hotplate from moving). This step, while optional, allows for the box to be moved into the glovebox with ease and with retaining alignment. 
--	Using the rod stand holder manufactured on the hotplate, a 3D printed mount (CC_Mount.step) for the color checker can be printed to hold the Color Checker in view of the camera during all tests though this component is optional if the system is run similarly to MIT’s work. 
+-	Using the rod stand holder manufactured on the hotplate, a 3D printed mount (https://github.com/ThomasWColburn/Stanford-Environmental-Chamber/blob/main/Stanford%20Chamber%20CAD/Color%20Check%20Stand) for the color checker can be printed to hold the Color Checker in view of the camera during all tests though this component is optional if the system is run similarly to MIT’s work. 
 -	A laser cutter or drill hole borer should be used to cut a round, 7.48 in hole into the top of the hardboard enclosure centered above the hotplate for mounting the camera. Note: this hole size and camera mount distance can be adjusted and optimized for particular camera architectures and hotplate sizes 
 
 # 3)	Mounting the Illumination Set-up
@@ -61,7 +61,7 @@ The chamber is comprised of:
 - Install the DCS Advanced Illumination test software to ensure proper operation of the two lights in unison.
 
 # 4)	Camera Mounting 
--	Over the drilled opening on the top of the hardboard enclosure, two 3D printed components will be mounted which are the optical extender and the lens mount (“Lens Mount Extender.step” and “Lens Mount Camera Holder.step”). The extender gives you sufficient field of view while the mount holds the camera and lens in the proper position. (see Figure 1 above to the arrow labeled “3D-printed Camera Mount” 
+-	Over the drilled opening on the top of the hardboard enclosure, two 3D printed components will be mounted which are the optical extender and the lens mount (“Lens Mount Extender.step” and “Lens Mount Camera Holder.step”). The extender gives you sufficient field of view while the mount holds the camera and lens in the proper position. (see Figure 1 above to the arrow labeled “3D-printed Camera Mount”) 
 -	Due to ease of printing, the lens mount and extender are printed separately and then glued together with standard super glue
 -	Use the camera’s C-mount and screw on the lens in accord with manufacturer’s instructions 
 -	Use M6 screws, nuts, and washers to mount the full 3D printed assembly to the top of the hardboard aligned over the laser cut hole. 
