@@ -9,9 +9,9 @@ Standard materials and tools were used for the construction of our optical imagi
 
 This repository contains detailed instructions for building and using a low-cost, high-throughput aging test chamber for perovskite materials. The instructions and control programs are shared to facilitate more wide-spread aging testing among photovoltaic materials research as well as in other materials research fields.
 
-This chamber has capability of controlling temperature of the samples, humidity of the degradation chamber, and illumination. Sample degradation can be followed by automated, color calibrated pictures. The implementation shown here accommodates 28 perovskite film samples. The aging chamber implemented according to the instructions typically $2,000-$5,000 depending on the amount of reused materials utilized in the process.
+This chamber has capability of controlling temperature of the samples and illumination in an inert atmosphere. Sample degradation can be followed by automated, color calibrated pictures. The implementation accomidates a variety of devices that can fit in a 7in x 7in platform. The aging chamber implemented according to the instructions typically $2,000-$5,000 depending on the amount of reused materials utilized in the process.
 
-This chamber is the Generation 1 chamber in an open-hardware project for developing degradation chambers for perovskite materials (see figure below). The project is described in detail in article: [insert details]
+This chamber is one of the Generation 2 chambers in an open-hardware project for developing degradation chambers for perovskite materials (see figure below). The project is described in detail in article: [insert details]
 
 ## Requirements
 
