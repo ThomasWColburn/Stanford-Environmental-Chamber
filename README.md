@@ -3,28 +3,26 @@ Stanford Environmental Chamber
 For the fabrication and operation of the Stanford Environmental Chamber
 Device Construction and List of Materials 
 
-Standard materials and tools were used for the construction of our optical imaging chamber. Any special or unique tools that were utilized in the operation and construction of our imaging chamber will be detailed below. All systems were constructed outside of an inert atmosphere and transferred into the glovebox via the front window. 
+Standard materials and tools were used for the construction of our optical imaging chamber. Any special or unique tools that were utilized in the operation and construction of our imaging chamber will be detailed below. All systems were constructed outside of an inert atmosphere and transferred into the glovebox via the front window.
+
+## Description
+
+This repository contains detailed instructions for building and using a low-cost, high-throughput aging test chamber for perovskite materials. The instructions and control programs are shared to facilitate more wide-spread aging testing among photovoltaic materials research as well as in other materials research fields.
+
+This chamber has capability of controlling temperature of the samples, humidity of the degradation chamber, and illumination. Sample degradation can be followed by automated, color calibrated pictures. The implementation shown here accommodates 28 perovskite film samples. The aging chamber implemented according to the instructions typically $2,000-$5,000 depending on the amount of reused materials utilized in the process.
+
+This chamber is the Generation 1 chamber in an open-hardware project for developing degradation chambers for perovskite materials (see figure below). The project is described in detail in article: [insert details]
+
+## Requirements
+
+Installation instructions have been devloped for:
+- Windows 10 64-bit or similar
+- CAD software
+- LabVIEW 2018 version 18.0
+- ThorCam Version 3.2.1.
 
 ## Chamber Set-up 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Degradation chamber generations in the open-hardware project. This repository describes MIT Gen. 1 chamber.](https://github.com/ThomasWColburn/Stanford-Environmental-Chamber/blob/main/Stanford Imaging Chamber Image.png)
 Figure 1: Design of the Stanford Optical Imaging Chamber
 
 
