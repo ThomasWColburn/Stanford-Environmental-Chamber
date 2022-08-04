@@ -18,8 +18,10 @@ This chamber is the Generation 1 chamber in an open-hardware project for develop
 Installation instructions have been devloped for:
 - Windows 10 64-bit or similar
 - CAD software
-- LabVIEW 2018 version 18.0
-- ThorCam Version 3.2.1.
+- LabVIEW 2022 Q3 Version  (can function with older versions)
+- ThorCam Version 3.2.1. and ThorCam LabVIEW interface subVIs (https://www.thorlabs.com/software_pages/ViewSoftwarePage.cfm?Code=ThorCam)
+- DCS Illumination Controller Software (https://www.advancedillumination.com/products/dcs-controller-triple-output/)
+- GIMP or other RGB analysis software (https://www.gimp.org/) 
 
 ## Chamber Set-up 
 ![Degradation chamber generations in the open-hardware project. This repository describes Stanford chamber.](https://github.com/ThomasWColburn/Stanford-Environmental-Chamber/blob/main/Stanford%20Imaging%20Chamber%20Image.png)
