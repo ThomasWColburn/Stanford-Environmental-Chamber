@@ -23,6 +23,7 @@ Installation instructions have been devloped for:
 
 ## Chamber Set-up 
 ![Degradation chamber generations in the open-hardware project. This repository describes Stanford chamber.](https://github.com/ThomasWColburn/Stanford-Environmental-Chamber/blob/main/Stanford%20Imaging%20Chamber%20Image.png)
+
 Figure 1: Design of the Stanford Optical Imaging Chamber
 
 
