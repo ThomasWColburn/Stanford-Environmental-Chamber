@@ -116,3 +116,29 @@ Ensuring the proper feedthroughs are available (1 USB, 1 Ethernet, and 2 power o
 - Ensure over-saturation is not occurring using GIMP or similar software to ensure the white square is not above RGB = 255,255,255
 - Using main.py, adjust the analysis area to the module architecture of choice and analyze the RGB values 
 - Allow the software to run and output the normalized RGB color values for the devices being analyzed  
+
+## Authors
+||                    |
+| ------------- | ------------------------------ |
+| **AUTHORS**      | Thomas W. Colburn, Cole A. Gurtner, Nicholas Rolston | 
+| **VERSION**      | 1.0 / Aug, 2022     | 
+| **EMAILS**      | tcolburn@stanford.edu | 
+||                    |
+
+## Attribution
+
+License information:
+- The content in the repository under MIT license
+
+If you implement aging chambers or use the codes distributed in this repository, please acknowledge use of this work with the appropiate citation to the repository and research article.
+
+## Citation
+
+    @Misc{spproc2020,
+      author =   {The Stanford-Environmental Chamber authors},
+      title =    {{Stanford-Environmental Chamber authors}: Perovskite module and device rapid degradation imaging platform},
+      howpublished = {\url{[https://github.com/PV-Lab/hte_degradation_chamber](https://github.com/ThomasWColburn/Stanford-Environmental-Chamber/)}},
+      year = {2022}
+    }
+    
+    [insert article details here for the open hardware project]
