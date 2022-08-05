@@ -29,18 +29,20 @@ Installation instructions have been devloped for:
 Figure 1: Design of the Stanford Optical Imaging Chamber
 
 
-The chamber is comprised of: 
-1)	ThorLabs Compact 12.3MP Scientific Camera (CS126CU)
-2)	ThorLabs MVL12M1 C-mount Lens
-3)	ThorLabs Black Hardboard Enclosure (XE25C9D)
-4)	Two Linear White Backlights from Advanced Illumination (BL 313)
-5)	Advanced Illumination Three-port Controller (DCS-103E) and standard ethernet cable
-6)	24V, 4.5A Computer Power Supply and AC wall outlet power cable 
-7)	XRite Color Checker Passport Photo 2
-8)	ThermoFisher Aluminum Metal SuperNuova+ Hotplate 
-9)	3D Printed Mounts for holding camera/lens, lights, and electronics in place 
-10)	Large black acrylic board for mounting the enclosure 
-11)	Optional aluminum sample alignment mask with heat-proof black paint 
+The chamber is comprised of (including estimate prices in USD):  
+1.	ThorLabs Compact 12.3MP Scientific Camera (CS126CU) $2,845
+2.	ThorLabs MVL12M1 C-mount Lens $408
+3.	ThorLabs Black Hardboard Enclosure (XE25C9D) $300
+4.	Two Linear White Backlights from Advanced Illumination (BL 313) $1,330
+5.	Advanced Illumination Three-port Controller (DCS-103E) and standard ethernet cable $850
+6.	24V, 4.5A Computer Power Supply and AC wall outlet power cable $24
+7.	XRite Color Checker Passport Photo 2 $119
+8.	ThermoFisher Aluminum Metal SuperNuova+ Hotplate $1000
+9.	3D Printed Mounts for holding camera/lens, lights, and electronics in place $5
+10.	Large black acrylic board for mounting the enclosure ~$20
+
+
+Total estimated cost: 
 
 
 ## Full Build and Operation Guide of the Enclosure 
