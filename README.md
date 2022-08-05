@@ -42,7 +42,7 @@ The chamber is comprised of (including estimate prices in USD):
 10.	Large black acrylic board for mounting the enclosure ~$20
 
 
-Total estimated cost: 
+Total estimated cost including shipping: $7,000
 
 
 ## Full Build and Operation Guide of the Enclosure 
